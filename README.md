@@ -1,15 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rutul%20Trivedi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%20and%20Software%20Engineering&descSize=20&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4429,100:26a641&height=220&section=header&text=Rutul%20Trivedi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%20and%20Software%20Engineering&descSize=20&descColor=39d353&descAlignY=60"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+intelligent%2C+scalable+systems;Generative+AI+%7C+AI+Agents+%7C+Agentic+AI;RAG+%7C+MCP+%7C+AI+Automation;Full-Stack+Development+%7C+Cloud+%26+DevOps" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Building+intelligent%2C+scalable+systems;Generative+AI+%7C+AI+Agents+%7C+Agentic+AI;RAG+%7C+MCP+%7C+AI+Automation;Full-Stack+Development+%7C+Cloud+%26+DevOps" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rutul-trivedi-82869024b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=rutultrivedi&label=Profile%20Views&color=2c5364&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/rutul-trivedi-82869024b"><img src="https://img.shields.io/badge/LinkedIn-Connect-238636?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<img src="https://komarev.com/ghpvc/?username=rutultrivedi&label=Profile%20Views&color=238636&labelColor=0d1117&style=for-the-badge"/>
 
 </div>
 
@@ -28,30 +28,41 @@ My goal is to grow into an AI-focused software engineer who designs production-r
 ## Tech Stack
 
 ### AI and GenAI
-![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-1f6feb?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-0f9d58?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-e8590c?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-d6336c?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-0b7285?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI_Automation-5f3dc4?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-f08c00?style=for-the-badge)
+<img src="https://img.shields.io/badge/Generative_AI-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
+<img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
+<img src="https://img.shields.io/badge/AI_Agents-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
+<img src="https://img.shields.io/badge/Agentic_AI-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
+<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
+<img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
+<img src="https://img.shields.io/badge/AI_Automation-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=39d353&labelColor=0d1117&color=238636"/>
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=39d353&labelColor=0d1117&color=238636"/>
+<img src="https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=39d353&labelColor=0d1117&color=238636"/>
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=39d353&labelColor=0d1117&color=238636"/>
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=39d353&labelColor=0d1117&color=238636"/>
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,cs"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cs,js,ts&theme=dark"/>
 
 ### Frameworks and Libraries
-<img src="https://skillicons.dev/icons?i=nodejs,react,redux,angular,jquery,dotnet,flutter"/>
+<img src="https://skillicons.dev/icons?i=nodejs,react,redux,nextjs,angular,jquery,dotnet,flask,fastapi,flutter,tailwind&theme=dark"/>
 
-Flask, ASP.Net Core, SignalR
+SignalR, ASP.Net Core
+
+### Cloud and DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,git,githubactions,linux,prometheus,grafana&theme=dark"/>
 
 ### Developer Tools
-<img src="https://skillicons.dev/icons?i=github,postman,figma,prometheus"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,postman,figma&theme=dark"/>
 
 Pandas, NumPy, Scikit-Learn, Matplotlib
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite&theme=dark"/>
 
 MS SQL Server
 
@@ -71,15 +82,15 @@ MS SQL Server
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rutultrivedi&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rutultrivedi&theme=github_dark"/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rutultrivedi&theme=tokyonight"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rutultrivedi&theme=tokyonight"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rutultrivedi&theme=github_dark"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rutultrivedi&theme=github_dark"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rutultrivedi&theme=tokyonight&hide_border=true&background=0f2027"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rutultrivedi&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakNum=39d353&currStreakLabel=39d353&sideNums=ffffff&sideLabels=8b949e&dates=8b949e"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26a641,50:0e4429,100:0d1117&height=120&section=footer"/>

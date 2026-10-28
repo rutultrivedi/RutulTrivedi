@@ -27,23 +27,13 @@ My goal is to grow into an AI-focused software engineer who designs production-r
 
 ## Tech Stack
 
-### AI and GenAI
-<img src="https://img.shields.io/badge/Generative_AI-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
-<img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
-<img src="https://img.shields.io/badge/AI_Agents-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
-<img src="https://img.shields.io/badge/Agentic_AI-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
-<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
-<img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
-<img src="https://img.shields.io/badge/AI_Automation-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
-<img src="https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
+<div align="center">
 
-<br/><br/>
+<img src="assets/ai.svg" width="100%"/>
 
-<img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=39d353&labelColor=0d1117&color=238636"/>
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=39d353&labelColor=0d1117&color=238636"/>
-<img src="https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=39d353&labelColor=0d1117&color=238636"/>
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=39d353&labelColor=0d1117&color=238636"/>
-<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=39d353&labelColor=0d1117&color=238636"/>
+<img src="assets/ai-tools.svg" width="100%"/>
+
+</div>
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=java,python,c,cs,js,ts&theme=dark"/>
@@ -68,13 +58,13 @@ MS SQL Server
 
 ---
 
-## Core Strengths
+<div align="center">
 
-`Communication` `Team Collaboration` `Problem Solving` `Leadership` `Critical Thinking`
+<img src="assets/strengths.svg" width="100%"/>
 
-## Areas of Interest
+<img src="assets/interests.svg" width="100%"/>
 
-`AI and GenAI` `AI Agents and Agentic AI` `RAG` `MCP` `Full-Stack Development` `Cloud and DevOps` `Intelligent Systems`
+</div>
 
 ---
 

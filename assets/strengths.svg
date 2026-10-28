@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="178" viewBox="0 0 830 178">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0e4429"/><stop offset="0.5" stop-color="#39d353"/><stop offset="1" stop-color="#0e4429"/><animate attributeName="x1" values="-1;1" dur="5s" repeatCount="indefinite"/><animate attributeName="x2" values="0;2" dur="5s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="chip" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#16251b"/><stop offset="1" stop-color="#0d1a12"/></linearGradient>
+</defs>
+<style>
+text{font-family:'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace}
+.t{font-size:18px;font-weight:700;fill:#39d353;letter-spacing:1px}
+.c{font-size:13.5px;font-weight:600;fill:#c9f7d2}
+.chip{opacity:0;transform-box:fill-box;animation:in .6s ease-out forwards}
+.chip rect{stroke:#26a641;stroke-width:1.2}
+.chip:hover rect{fill:#238636}
+.glow{animation:pulse 3.2s ease-in-out infinite}
+.dot{fill:#39d353;animation:blink 1.8s ease-in-out infinite}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes pulse{0%,100%{stroke-opacity:.45}50%{stroke-opacity:1}}
+@keyframes blink{0%,100%{opacity:.3}50%{opacity:1}}
+</style>
+<rect x="1" y="1" width="828" height="176" rx="14" fill="#0d1117" stroke="url(#g)" stroke-width="2"/>
+<circle class="dot" cx="34" cy="34" r="4.5"/>
+<text class="t" x="48" y="40">CORE STRENGTHS</text>
+<line x1="28" y1="54" x2="802" y2="54" stroke="#21362a" stroke-width="1"/>
+<g class="chip" style="animation-delay:0.10s"><rect class="glow" style="animation-delay:0.0s" x="28" y="70" width="147" height="34" rx="17" fill="url(#chip)"/><text class="c" x="101.5" y="92" text-anchor="middle">Communication</text></g>
+<g class="chip" style="animation-delay:0.18s"><rect class="glow" style="animation-delay:0.4s" x="187" y="70" width="190" height="34" rx="17" fill="url(#chip)"/><text class="c" x="282.0" y="92" text-anchor="middle">Team Collaboration</text></g>
+<g class="chip" style="animation-delay:0.26s"><rect class="glow" style="animation-delay:0.8s" x="389" y="70" width="165" height="34" rx="17" fill="url(#chip)"/><text class="c" x="471.5" y="92" text-anchor="middle">Problem Solving</text></g>
+<g class="chip" style="animation-delay:0.34s"><rect class="glow" style="animation-delay:1.2s" x="566" y="70" width="122" height="34" rx="17" fill="url(#chip)"/><text class="c" x="627.0" y="92" text-anchor="middle">Leadership</text></g>
+<g class="chip" style="animation-delay:0.42s"><rect class="glow" style="animation-delay:1.6s" x="28" y="116" width="182" height="34" rx="17" fill="url(#chip)"/><text class="c" x="119.0" y="138" text-anchor="middle">Critical Thinking</text></g>
+</svg>

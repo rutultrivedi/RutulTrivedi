@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rutul%20Trivedi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Software%20Engineering&descSize=20&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rutul%20Trivedi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%20and%20Software%20Engineering&descSize=20&descAlignY=60"/>
 
 <div align="center">
 
@@ -71,16 +71,14 @@ MS SQL Server
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rutultrivedi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutultrivedi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rutultrivedi&theme=tokyonight"/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rutultrivedi&theme=tokyonight"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rutultrivedi&theme=tokyonight"/>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutultrivedi&theme=tokyonight&hide_border=true&background=0f2027"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rutultrivedi&theme=tokyo-night&hide_border=true&bg_color=0f2027&area=true"/>
 
 </div>
 

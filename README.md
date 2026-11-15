@@ -19,21 +19,23 @@
 
 <div align="center">
 
-<img src="assets/ai-navy.svg" width="100%" alt="AI and GenAI topics"/>
+<img src="assets/sec-ai.svg" width="100%" alt="AI and GenAI: Generative AI, LLMs, AI Agents, Agentic AI, RAG, MCP, AI Automation, Machine Learning"/>
 
-<img src="assets/stack-ai-tools.svg" width="100%" alt="AI tools and libraries"/>
+<img src="assets/sec-ai-tools.svg" width="100%" alt="AI tools and libraries: Claude, LangChain, Hugging Face, PyTorch, TensorFlow"/>
 
-<img src="assets/stack-ticker.svg" width="100%" alt="Tech stack: Java, Python, C, C#, JavaScript, TypeScript, Node.js, React, Redux, Next.js, Angular, jQuery, ASP.Net Core, SignalR, Flask, FastAPI, Flutter, Tailwind CSS, Docker, Kubernetes, Azure, AWS, Git, GitHub Actions, Linux, Prometheus, Grafana, GitHub, VS Code, Postman, Figma, Pandas, NumPy, Scikit-Learn, Matplotlib, MongoDB, MySQL, PostgreSQL, Redis, SQLite, MS SQL Server"/>
+<img src="assets/sec-tech.svg" width="100%" alt="Technologies: Java, Python, C, C#, JavaScript, TypeScript, Node.js, React, Redux, Next.js, Angular, jQuery, ASP.Net Core, SignalR, Flask, FastAPI, Flutter, Tailwind CSS, Docker, Kubernetes, Azure, AWS, Git, GitHub Actions, Linux, Prometheus, Grafana, GitHub, VS Code, Postman, Figma, Pandas, NumPy, Scikit-Learn, Matplotlib, MongoDB, MySQL, PostgreSQL, Redis, SQLite, MS SQL Server"/>
 
 </div>
 
 ---
 
+## Strengths and Interests
+
 <div align="center">
 
-<img src="assets/strengths-navy.svg" width="100%"/>
+<img src="assets/sec-strengths.svg" width="100%" alt="Core strengths: Communication, Team Collaboration, Problem Solving, Leadership, Critical Thinking"/>
 
-<img src="assets/interests-navy.svg" width="100%"/>
+<img src="assets/sec-interests.svg" width="100%" alt="Areas of interest: AI and GenAI, AI Agents and Agentic AI, RAG, MCP, Full-Stack Development, Cloud and DevOps, Intelligent Systems"/>
 
 </div>
 

@@ -1,4 +1,4 @@
-<img width="100%" src="assets/hero.svg" alt="Rutul Trivedi - Software Engineer"/>
+<img width="100%" src="assets/hero.svg?v=2" alt="Rutul Trivedi - Software Engineer"/>
 
 <div align="center">
 
@@ -23,9 +23,9 @@ My goal is to grow into an AI-focused software engineer who designs production-r
 
 <div align="center">
 
-<img src="assets/ai.svg" width="100%"/>
+<img src="assets/ai.svg?v=2" width="100%"/>
 
-<img src="assets/ai-tools.svg" width="100%"/>
+<img src="assets/ai-tools.svg?v=2" width="100%"/>
 
 </div>
 
@@ -54,9 +54,9 @@ MS SQL Server
 
 <div align="center">
 
-<img src="assets/strengths.svg" width="100%"/>
+<img src="assets/strengths.svg?v=2" width="100%"/>
 
-<img src="assets/interests.svg" width="100%"/>
+<img src="assets/interests.svg?v=2" width="100%"/>
 
 </div>
 
@@ -77,4 +77,4 @@ MS SQL Server
 
 </div>
 
-<img width="100%" src="assets/footer.svg" alt=""/>
+<img width="100%" src="assets/footer.svg?v=2" alt=""/>

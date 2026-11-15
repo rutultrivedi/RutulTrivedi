@@ -19,32 +19,21 @@
 
 <div align="center">
 
-<img src="assets/ai-navy.svg" width="100%"/>
+<img src="assets/ai-navy.svg" width="100%" alt="AI and GenAI topics"/>
 
-<img src="assets/ai-tools-navy.svg" width="100%"/>
+<img src="assets/stack-ai-tools.svg" width="100%" alt="AI tools and libraries"/>
+
+<img src="assets/stack-languages.svg" width="100%" alt="Languages"/>
+
+<img src="assets/stack-frameworks.svg" width="100%" alt="Frameworks and libraries"/>
+
+<img src="assets/stack-cloud.svg" width="100%" alt="Cloud and DevOps"/>
+
+<img src="assets/stack-tools.svg" width="100%" alt="Developer tools"/>
+
+<img src="assets/stack-databases.svg" width="100%" alt="Databases"/>
 
 </div>
-
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,c,cs,js,ts&theme=dark"/>
-
-### Frameworks and Libraries
-<img src="https://skillicons.dev/icons?i=nodejs,react,redux,nextjs,angular,jquery,dotnet,flask,fastapi,flutter,tailwind&theme=dark"/>
-
-SignalR, ASP.Net Core
-
-### Cloud and DevOps
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,git,githubactions,linux,prometheus,grafana&theme=dark"/>
-
-### Developer Tools
-<img src="https://skillicons.dev/icons?i=github,vscode,postman,figma&theme=dark"/>
-
-Pandas, NumPy, Scikit-Learn, Matplotlib
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite&theme=dark"/>
-
-MS SQL Server
 
 ---
 

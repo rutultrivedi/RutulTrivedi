@@ -23,7 +23,7 @@
 
 <img src="assets/sec-ai-tools.svg" width="100%" alt="AI tools and libraries: Claude, LangChain, Hugging Face, PyTorch, TensorFlow"/>
 
-<img src="assets/sec-tech.svg" width="100%" alt="Technologies: Java, Python, C, C#, JavaScript, TypeScript, Node.js, React, Redux, Next.js, Angular, jQuery, ASP.Net Core, SignalR, Flask, FastAPI, Flutter, Tailwind CSS, Docker, Kubernetes, Azure, AWS, Git, GitHub Actions, Linux, Prometheus, Grafana, GitHub, VS Code, Postman, Figma, Pandas, NumPy, Scikit-Learn, Matplotlib, MongoDB, MySQL, PostgreSQL, Redis, SQLite, MS SQL Server"/>
+<img src="assets/sec-technologies.svg" width="100%" alt="Technologies: Java, Python, C, C#, JavaScript, TypeScript, Node.js, React, Redux, Next.js, Angular, ASP.Net Core, Flask, FastAPI, Flutter, Tailwind CSS, Docker, Kubernetes, Azure, GCP, Vercel, Hetzner, Git, CI/CD, DevOps, Cron Jobs, Linux, GitHub, VS Code, Postman, Pandas, NumPy, Scikit-Learn, Matplotlib, MongoDB, MySQL, PostgreSQL, Redis, SQLite, MS SQL Server"/>
 
 </div>
 

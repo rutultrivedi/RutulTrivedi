@@ -23,15 +23,7 @@
 
 <img src="assets/stack-ai-tools.svg" width="100%" alt="AI tools and libraries"/>
 
-<img src="assets/stack-languages.svg" width="100%" alt="Languages"/>
-
-<img src="assets/stack-frameworks.svg" width="100%" alt="Frameworks and libraries"/>
-
-<img src="assets/stack-cloud.svg" width="100%" alt="Cloud and DevOps"/>
-
-<img src="assets/stack-tools.svg" width="100%" alt="Developer tools"/>
-
-<img src="assets/stack-databases.svg" width="100%" alt="Databases"/>
+<img src="assets/stack-ticker.svg" width="100%" alt="Tech stack: Java, Python, C, C#, JavaScript, TypeScript, Node.js, React, Redux, Next.js, Angular, jQuery, ASP.Net Core, SignalR, Flask, FastAPI, Flutter, Tailwind CSS, Docker, Kubernetes, Azure, AWS, Git, GitHub Actions, Linux, Prometheus, Grafana, GitHub, VS Code, Postman, Figma, Pandas, NumPy, Scikit-Learn, Matplotlib, MongoDB, MySQL, PostgreSQL, Redis, SQLite, MS SQL Server"/>
 
 </div>
 

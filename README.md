@@ -23,9 +23,9 @@ My goal is to grow into an AI-focused software engineer who designs production-r
 
 <div align="center">
 
-<img src="assets/ai.svg?v=2" width="100%"/>
+<img src="assets/ai-navy.svg" width="100%"/>
 
-<img src="assets/ai-tools.svg?v=2" width="100%"/>
+<img src="assets/ai-tools-navy.svg" width="100%"/>
 
 </div>
 
@@ -54,9 +54,9 @@ MS SQL Server
 
 <div align="center">
 
-<img src="assets/strengths.svg?v=2" width="100%"/>
+<img src="assets/strengths-navy.svg" width="100%"/>
 
-<img src="assets/interests.svg?v=2" width="100%"/>
+<img src="assets/interests-navy.svg" width="100%"/>
 
 </div>
 

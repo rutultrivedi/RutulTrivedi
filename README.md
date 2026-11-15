@@ -11,11 +11,7 @@
 
 ## About Me
 
-- Software developer building intelligent, scalable solutions at the intersection of software engineering and AI
-- Full-stack foundation across web and mobile applications, backend systems, APIs, databases, cloud and DevOps
-- Currently focused on **Generative AI**, **AI Agents**, **Agentic AI**, **RAG**, **MCP** and **AI-powered automation**
-- Exploring how AI systems work under the hood: LLMs, retrieval pipelines, tools, memory, orchestration and production deployment
-- Goal: grow into an AI-focused software engineer who designs production-ready, intelligent systems that solve real-world problems
+<img src="assets/about-navy.svg" width="100%" alt="About me: software developer building intelligent, scalable solutions at the intersection of software engineering and AI; full-stack foundation; focused on Generative AI, AI Agents, Agentic AI, RAG, MCP and AI automation; goal of becoming an AI-focused software engineer building production-ready intelligent systems."/>
 
 ---
 

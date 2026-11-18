@@ -41,18 +41,11 @@
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rutultrivedi&theme=nord_dark"/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rutultrivedi&theme=nord_dark"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rutultrivedi&theme=nord_dark"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rutultrivedi&hide_border=true&background=0b1220&ring=7fb0ff&fire=7fb0ff&currStreakNum=7fb0ff&currStreakLabel=7fb0ff&sideNums=dbe7f5&sideLabels=8da2c0&dates=8da2c0"/>
+<img src="assets/stats-30d.svg" width="100%" alt="GitHub activity over the last 30 days: total contributions, active days, busiest day and current streak, with a daily contributions chart"/>
 
 </div>
 

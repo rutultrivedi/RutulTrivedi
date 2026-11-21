@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="assets/stats-30d.svg?v=20261118" width="100%" alt="GitHub activity over the last 30 days: total contributions, active days, busiest day and current streak, with a daily contributions chart"/>
+<img src="assets/stats-30d.svg?v=20261121" width="100%" alt="GitHub activity over the last 30 days: total contributions, active days, busiest day and current streak, with a daily contributions chart"/>
 
 </div>
 

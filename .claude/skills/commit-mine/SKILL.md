@@ -1,5 +1,5 @@
 ---
-name: commit
+name: commit-mine
 description: Stage the current changes, write a clear commit message in the repo's own style, commit, and push. Use when the user says commit, commit and push, or save my changes to git.
 disable-model-invocation: true
 ---

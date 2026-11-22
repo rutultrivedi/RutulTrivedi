@@ -1,5 +1,5 @@
 ---
-name: summarize
+name: summarize-mine
 description: Summarize a local file in simple, easy-to-follow language, in a short or detailed mode. Use when the user gives a file path and wants it explained or summarized.
 argument-hint: "<file-path> [short | detailed]"
 ---

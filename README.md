@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rutul-trivedi-82869024b"><img src="https://img.shields.io/badge/LinkedIn-Connect-1d4079?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1426"/></a>
-<img src="https://komarev.com/ghpvc/?username=rutultrivedi&label=Profile%20Views&color=1d4079&labelColor=0a1426&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/rutul-trivedi-82869024b"><img src="https://img.shields.io/badge/LinkedIn-Connect-1d4079?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1426" alt="Connect on LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=rutultrivedi&label=Profile%20Views&color=1d4079&labelColor=0a1426&style=for-the-badge" alt="Profile view count"/>
 
 </div>
 

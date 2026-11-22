@@ -1,6 +1,6 @@
 ---
 name: file-convert
-description: Convert a file between formats: PDF and DOCX, images (PNG, JPG, WebP, SVG), CSV, JSON and Excel, and Markdown and HTML. Use when the user wants to convert, export or change a file's format.
+description: "Convert a file between formats: PDF and DOCX, images (PNG, JPG, WebP, SVG), CSV, JSON and Excel, and Markdown and HTML. Use when the user wants to convert, export or change a file's format."
 argument-hint: "<file-path> <target-format>"
 disable-model-invocation: true
 ---

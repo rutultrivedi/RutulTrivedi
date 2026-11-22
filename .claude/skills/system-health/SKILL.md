@@ -1,6 +1,6 @@
 ---
 name: system-health
-description: Report the laptop's health: CPU, memory, disk, battery, uptime and the heaviest processes, with a verdict and manual fixes. Read-only. Use when the laptop feels slow, hot, or the user wants a health check.
+description: "Report the laptop's health: CPU, memory, disk, battery, uptime and the heaviest processes, with a verdict and manual fixes. Read-only. Use when the laptop feels slow, hot, or the user wants a health check."
 disable-model-invocation: true
 ---
 
